@@ -18,3 +18,58 @@
 
 ## 🗂️ Monorepo Structure (Turborepo)
 
+---
+
+## 📦 Built With
+
+- React + TypeScript
+- Zustand (state management)
+- @dnd-kit (drag & drop)
+- fabric.js or konva (canvas rendering)
+- Turborepo (monorepo management)
+- Electron (export engine)
+- vm2 or custom interpreters (logic execution)
+
+---
+
+## 🧠 Philosophy
+
+> CosmOS is not just an app — it's an ecosystem.  
+> Users are the architects. Developers are the expanders.  
+> Every window, app, and logic block is a building block in a digital universe.
+
+---
+
+## 🔜 Roadmap
+
+- [x] Monorepo setup with Turborepo
+- [ ] Initial UI canvas with drag & drop
+- [ ] Plugin SDK & registry system
+- [ ] JSON-based project schema with live preview
+- [ ] Export to Electron + PWA
+- [ ] Template and Plugin Cloud Marketplace (Supabase backend)
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions of all kinds:
+- New plugins
+- UI templates
+- Improvements to the builder
+- Documentation & tutorials
+
+More info coming soon in `CONTRIBUTING.md`.
+
+---
+
+## ⚖️ License
+
+MIT — open to all creators and coders.
+
+---
+
+## 🌌 Join the Cosmos.
+
+This is the beginning of a customizable, programmable, community-driven OS revolution.
+
